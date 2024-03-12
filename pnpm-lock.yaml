@@ -126,8 +126,8 @@ importers:
         specifier: 0.6.1
         version: 0.6.1(react-dom@18.2.0)(react@18.2.0)
       '@amsterdam/design-system-tokens':
-        specifier: 0.6.1
-        version: 0.6.1
+        specifier: 0.7.0
+        version: 0.7.0
 
   packages/form-renderer: {}
 
@@ -183,8 +183,8 @@ packages:
       react-dom: 18.2.0(react@18.2.0)
     dev: false
 
-  /@amsterdam/design-system-tokens@0.6.1:
-    resolution: {integrity: sha512-d1oBYuOAOskv0PhitX/q0QMHNH8PRQ837E1Xozfkdpexv8AMyjRwHZIIxfbwYJAyrMJY2EaXQaBffC5K7vHBWw==}
+  /@amsterdam/design-system-tokens@0.7.0:
+    resolution: {integrity: sha512-NvllkFVNZ3cyrJI0vQk+0hjUv+ZswkSBd5tL7rZp3pUK3XzmHGeWmx46EYg0Qsk+KSJTHUClLdhqGiijCPCxyA==}
     dev: false
 
   /@asamuzakjp/dom-selector@2.0.2:
