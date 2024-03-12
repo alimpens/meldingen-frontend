@@ -123,8 +123,8 @@ importers:
         specifier: 0.6.1
         version: 0.6.1
       '@amsterdam/design-system-react':
-        specifier: 0.6.1
-        version: 0.6.1(react-dom@18.2.0)(react@18.2.0)
+        specifier: 0.7.0
+        version: 0.7.0(react-dom@18.2.0)(react@18.2.0)
       '@amsterdam/design-system-tokens':
         specifier: 0.6.1
         version: 0.6.1
@@ -171,8 +171,8 @@ packages:
       react-dom: 18.2.0(react@18.2.0)
     dev: false
 
-  /@amsterdam/design-system-react@0.6.1(react-dom@18.2.0)(react@18.2.0):
-    resolution: {integrity: sha512-AdpGsIwZfOI+rgJxwalArX67CcL5CL0AQGjI6hbGN7mKwztqr7zjZiSHsG8SEWfA4+n5fLqdJx2g4XJXG5OpLA==}
+  /@amsterdam/design-system-react@0.7.0(react-dom@18.2.0)(react@18.2.0):
+    resolution: {integrity: sha512-jhRqcIegQYrRp3HMxe5SAeBRZRS3E2sHEix9MrCljnJrcLxgsX5MbPW/B3vzf3x0r1uQK8T16JDLXXuTSg2zCw==}
     peerDependencies:
       react: 16 - 18
       react-dom: 16 - 18
