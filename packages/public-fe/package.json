@@ -1,0 +1,17 @@
+{
+  "name": "@meldingen/public-fe",
+  "version": "0.1.0",
+  "private": true,
+  "description": "",
+  "dependencies": {
+    "@meldingen/components": "workspace:*"
+  },
+  "scripts": {
+    "build": "next build",
+    "clean": "rimraf .next",
+    "dev": "next dev",
+    "start": "next start"
+  },
+  "author": "",
+  "license": "EUPL-1.2"
+}

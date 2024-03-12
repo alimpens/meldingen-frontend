@@ -1,0 +1,15 @@
+{
+  "name": "@meldingen/admin-fe",
+  "version": "0.1.0",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "next build",
+    "clean": "rimraf .next",
+    "dev": "next dev -p 3001",
+    "start": "next start -p 3001"
+  },
+  "author": "",
+  "license": "EUPL-1.2"
+}
