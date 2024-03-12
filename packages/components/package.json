@@ -9,7 +9,7 @@
   "author": "",
   "license": "EUPL-1.2",
   "dependencies": {
-    "@amsterdam/design-system-assets": "0.1.8",
+    "@amsterdam/design-system-assets": "0.2.0",
     "@amsterdam/design-system-css": "0.6.1",
     "@amsterdam/design-system-react": "0.6.1",
     "@amsterdam/design-system-tokens": "0.6.1"

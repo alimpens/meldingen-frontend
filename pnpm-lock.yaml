@@ -117,8 +117,8 @@ importers:
   packages/components:
     dependencies:
       '@amsterdam/design-system-assets':
-        specifier: 0.1.8
-        version: 0.1.8
+        specifier: 0.2.0
+        version: 0.2.0
       '@amsterdam/design-system-css':
         specifier: 0.6.1
         version: 0.6.1
@@ -151,8 +151,8 @@ packages:
       '@jridgewell/gen-mapping': 0.3.5
       '@jridgewell/trace-mapping': 0.3.25
 
-  /@amsterdam/design-system-assets@0.1.8:
-    resolution: {integrity: sha512-n6gKvTJq7rIS3GvDqDMZQr8HhxYzrSapbnTAvUpspNUbeDzm7SXv27/bDUCTiv+l28sdUdHI35ieKbBl7MU7iw==}
+  /@amsterdam/design-system-assets@0.2.0:
+    resolution: {integrity: sha512-YSjs8WumfY8luOFW2ZDvzhexhn1ZjBfIj484o2Wk7I+bIBwflOLGgQ7q9gS/6UWff1XZ5ZJmkgUA3rAtvhGKlw==}
     dev: false
 
   /@amsterdam/design-system-css@0.6.1:
