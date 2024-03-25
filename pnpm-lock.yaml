@@ -120,8 +120,8 @@ importers:
         specifier: 0.1.8
         version: 0.1.8
       '@amsterdam/design-system-css':
-        specifier: 0.6.1
-        version: 0.6.1
+        specifier: 0.7.1
+        version: 0.7.1
       '@amsterdam/design-system-react':
         specifier: 0.6.1
         version: 0.6.1(react-dom@18.2.0)(react@18.2.0)
@@ -155,8 +155,8 @@ packages:
     resolution: {integrity: sha512-n6gKvTJq7rIS3GvDqDMZQr8HhxYzrSapbnTAvUpspNUbeDzm7SXv27/bDUCTiv+l28sdUdHI35ieKbBl7MU7iw==}
     dev: false
 
-  /@amsterdam/design-system-css@0.6.1:
-    resolution: {integrity: sha512-Fzvx0XsLZbLnmqr+wrE+K+o97kuFEDPaJhcnMrCc7dUlgtjxXw4J+i/NSJgYbKrbuCU9NZln1VACKDTTN2tA5Q==}
+  /@amsterdam/design-system-css@0.7.1:
+    resolution: {integrity: sha512-4JlmXYJe3HvpnZGrLROaLjo2mgEZAwcL4FeAbW8i6FG2fuw3S/qW/3AewjwlhxqXcz00maaUASSbJwprP8m+Eg==}
     dependencies:
       '@utrecht/components': 3.0.0
     dev: false
